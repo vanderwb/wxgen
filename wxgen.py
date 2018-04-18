@@ -2,7 +2,7 @@
 #
 #   Script:          wxgen.py
 #   Author:          Brian Vanderwende
-#   Last Revised:    15:33, 13 Apr 2018
+#   Last Revised:    23:21, 17 Apr 2018
 #
 #   This code generates a fake weather forecast for Boulder, CO
 #
@@ -13,7 +13,7 @@ from random import gauss, random
 from datetime import datetime
 
 # User settings
-city_list   = ["boulder","philadelphia"]
+city_list   = ["boulder","philadelphia","seattle"]
 fcst_path   = "forecasts/{}.txt"
 num_days    = 7
 
