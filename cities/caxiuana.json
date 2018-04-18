@@ -1,0 +1,17 @@
+{
+    "name":     "Caxiuana",
+    "state":    "Para",
+    "high":     {
+        "avg":  28.5,
+        "std":  2.5
+    },
+    "low":      {
+        "avg":  26.3,
+        "std":  2.5
+    },
+    "precip":   {
+        "yamt": 2100.0,
+        "std":  10.0,
+        "days": 310.0
+    }
+}
